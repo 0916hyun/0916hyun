@@ -1,6 +1,6 @@
 # Hi, I'm Hyunwoo Song 👋  
 **Deep Learning & Computer Vision Researcher**  
-Semantic Segmentation • RGB-D Representation Learning • Knowledge Distillation
+Semantic Segmentation • Knowledge Distillation • Edge Deployment
 
 ---
 
