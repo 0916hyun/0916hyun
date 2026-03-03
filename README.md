@@ -14,7 +14,6 @@ Semantic Segmentation • Knowledge Distillation • Edge Deployment
 
 ---
 
-### 🧑‍🔬 About Me  
 ### 🧑‍🔬 About Me
 I am a deep learning and computer vision researcher focused on making autonomous driving perception reliable under adverse conditions such as weather and illumination changes.
 My work centers on semantic segmentation, spanning RGB-D representation learning, knowledge distillation, and deployment-oriented model design.
