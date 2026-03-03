@@ -7,7 +7,7 @@ Semantic Segmentation • RGB-D Representation Learning • Knowledge Distillati
 ### 🔗 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-0916hyun-black?style=for-the-badge&logo=github)](https://github.com/0916hyun)
-[![Tistory](https://img.shields.io/badge/Tistory-Blog-FF6C00?style=for-the-badge)](YOUR_TISTORY_URL)
+[![Tistory](https://img.shields.io/badge/Tistory-Blog-FF6C00?style=for-the-badge)](https://hyun0916.tistory.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheBust=1)](YOUR_LINKEDIN_URL)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4B8BF5?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL)
 
@@ -15,20 +15,24 @@ Semantic Segmentation • RGB-D Representation Learning • Knowledge Distillati
 ---
 
 ### 🧑‍🔬 About Me  
-I am a senior undergraduate researcher working on **robust semantic segmentation under adverse weather**,  
-specializing in **RGB-D fusion**, **multi-teacher knowledge distillation**, and **mobile deployment**  
-(PyTorch → ONNX → OpenVINO INT8).
+### 🧑‍🔬 About Me
+I am a deep learning and computer vision researcher focused on making autonomous driving perception reliable under adverse conditions such as weather and illumination changes.
+My work centers on semantic segmentation, spanning RGB-D representation learning, knowledge distillation, and deployment-oriented model design.
 
-I build full pipelines from data preparation, modeling, evaluation,  
-to real device deployment on Android and embedded systems.
+I go beyond offline benchmarks by integrating on-device inference into ROS2 and Nav2 pipelines and validating models in real system contexts.
+I make design decisions based on measured constraints on edge devices, including latency, FPS, and model size, and iterate with evidence-driven experiments.
+In team projects, I have built end-to-end pipelines from data preparation and modeling to evaluation and real-device deployment, delivering service-ready prototypes.
 
 ---
 
-### 🛠 Tech Stack  
-**Deep Learning**: PyTorch, ONNX, OpenVINO, TensorRT  
-**Vision**: SegFormer, U-Net, MiDaS, OpenCV  
-**Tools**: Docker, Linux, VSCode Remote, Jetson TX2  
-**Data**: CamVid, KITTI, IDD-Lite, ETD (Trajectory)
+### 🛠 Tech Stack
+
+**Deep Learning / CV**: Python, PyTorch, OpenCV, Hugging Face  
+**On-device Deployment**: ONNX, TensorRT, OpenVINO, Android Studio, Kotlin  
+**Robotics Integration**: ROS2, Nav2, SLAM  
+**Dev / MLOps**: Linux, Git, Docker  
+**Embedded Platforms**: Jetson TX2, Jetson Orin Nano, Raspberry Pi 5, Android  
+**Datasets**: CamVid, KITTI, IDD-Lite, ETD (Trajectory)
 
 ---
 
