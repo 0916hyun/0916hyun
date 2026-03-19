@@ -63,3 +63,33 @@ In team projects, I have built end-to-end pipelines from data preparation and mo
 | <a href="https://hyun0916.tistory.com/category/Study%20Archives/opencv" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/Lenna.png" alt="Image Processing Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/dl.png" alt="Deep Learning Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/jetson.png" alt="Embedded Systems Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reivews" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/paper.png" alt="Paper Reviews" width="260" /></a> |
 | [![Blog](https://img.shields.io/badge/Blog-Image%20Processing-1E90FF?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/opencv) | [![Blog](https://img.shields.io/badge/Blog-Deep%20Learning-8A2BE2?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning) | [![Blog](https://img.shields.io/badge/Blog-Embedded%20Systems-20B2AA?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems) | [![Blog](https://img.shields.io/badge/Blog-Paper%20Reviews-DC143C?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reviews) |
 
+---
+
+
+## 📄 Publications
+
+### Journal Papers
+
+| Title | Journal | Role | Status |
+| --- | --- | --- | --- |
+| Covariance Attention and Correlation-Based Knowledge Distillation for Semantic Segmentation of Lens Flare-Degraded Road Scenes | *Engineering Applications of Artificial Intelligence* | First Author | Under Review |
+| Multi-teacher Knowledge Distillation-based Fusion for Semantic Segmentation Robust to Low-quality Images from Adverse Road Environments by Cross-modality Knowledge | *ISPRS Journal of Photogrammetry and Remote Sensing* | First Author | Under Review |
+| Knowledge Distillation for Super-resolution Reconstruction and Segmentation in Forward-facing Camera Images | *Applied Soft Computing* | Co-author | 2026.02 |
+| Estimation of Fractal Dimension and Super-resolution Reconstruction for Person Re-identification from Images by Infrared Surveillance Camera | *Fractal and Fractional* | Co-author | 2026.02 |
+
+### Conference Papers
+
+| Title | Conference | Role | Date |
+| --- | --- | --- | --- |
+| 자율주행차량에서 렌즈 플레어 복원 기반 대상체 시맨틱 분할을 위한 기존 연구 분석 | 대한전자공학회 2025년도 추계학술대회 | First Author | 2025.11.28 |
+| 저조도 영상 복원 기반 수중 환경에서의 대상체 시맨틱 분할을 위한 기존 연구 분석 | 대한전자공학회 2025년도 추계학술대회 | Co-author | 2025.11.29 |
+
+---
+
+## 🧾 Patents & Software Registration
+
+| Title | Type | Date | Number |
+| --- | --- | --- | --- |
+| 빛 번짐에 강인한 시맨틱 세그멘테이션 장치 및 방법 | Patent (Published) | 2025.08.28 | 10-2025-0121303 |
+| 악천후 환경에서 강건한 의미론적 이미지 분할 장치 및 방법 | Patent (Published) | 2026.02.27 | 10-2026-0036791 |
+| 렌즈 플레어 열화 이미지에 강인한 공분산 어텐션 및 지식증류 기반 세그멘테이션 프로그램 | Software (Registered) | 2025.08.14 | C-2025-031317 |
