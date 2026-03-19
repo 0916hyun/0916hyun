@@ -1,6 +1,6 @@
 # Hi, I'm Hyunwoo Song 👋  
 **Deep Learning & Computer Vision Researcher**  
-Semantic Segmentation • Knowledge Distillation • Edge Deployment
+Semantic Segmentation • Robust Perception • Knowledge Distillation • Edge Deployment
 
 ---
 
@@ -8,63 +8,19 @@ Semantic Segmentation • Knowledge Distillation • Edge Deployment
 
 [![GitHub](https://img.shields.io/badge/GitHub-0916hyun-black?style=for-the-badge&logo=github)](https://github.com/0916hyun)
 [![Tistory](https://img.shields.io/badge/Tistory-Blog-FF6C00?style=for-the-badge)](https://hyun0916.tistory.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheBust=1)](YOUR_LINKEDIN_URL)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4B8BF5?style=for-the-badge&logo=googlescholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1J1Ao8yfaiH_9ng-O6nkSUYYKQhXUSdjC/view?usp=sharing)
 
 ---
 
 ### 🧑‍🔬 About Me
-I am a deep learning and computer vision researcher focused on making autonomous driving perception reliable under adverse conditions such as weather and illumination changes.
+I am a deep learning and computer vision researcher focused on making autonomous driving perception reliable under adverse conditions such as weather and illumination changes.  
 My work centers on semantic segmentation, spanning RGB-D representation learning, knowledge distillation, and deployment-oriented model design.
 
-I go beyond offline benchmarks by integrating on-device inference into ROS2 and Nav2 pipelines and validating models in real system contexts.
-I make design decisions based on measured constraints on edge devices, including latency, FPS, and model size, and iterate with evidence-driven experiments.
+I go beyond offline benchmarks by integrating on-device inference into ROS2 and Nav2 pipelines and validating models in real system contexts.  
+I make design decisions based on measured edge-device constraints such as latency, FPS, and model size, and iterate through evidence-driven experiments.  
 In team projects, I have built end-to-end pipelines from data preparation and modeling to evaluation and real-device deployment, delivering service-ready prototypes.
 
 ---
-
-### 🛠 Tech Stack
-
-**Deep Learning / CV**: Python, PyTorch, OpenCV, Hugging Face  
-**On-device Deployment**: ONNX, TensorRT, OpenVINO, Android Studio, Kotlin  
-**Robotics Integration**: ROS2, Nav2, SLAM  
-**Dev / MLOps**: Linux, Git, Docker  
-**Embedded Platforms**: Jetson TX2, Jetson Orin Nano, Raspberry Pi 5, Android  
-**Datasets**: CamVid, KITTI, IDD-Lite, ETD (Trajectory)
-
----
-
-## 🔬 연구 (Research)
-
-| CACKD | VD-MKDF |
-| :---: | :-----: |
-| <a href="PAPER_URL_CACKD" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/cackd_thumb.png" alt="CACKD" width="360" /></a> | <a href="PAPER_URL_VDMKDF" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/rmawkd_thumb.png" alt="VD-MKDF" width="360" /></a> |
-| [![Paper](https://img.shields.io/badge/Paper-Under%20Review-lightgrey?style=for-the-badge)](PAPER_URL_CACKD) <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/CACKD) <br> [![Blog](https://img.shields.io/badge/Blog-Research%20Note-blue?style=for-the-badge)](https://hyun0916.tistory.com/category/Research/CACKD) | [![Paper](https://img.shields.io/badge/Paper-Under%20Review-lightgrey?style=for-the-badge)](PAPER_URL_VDMKDF) <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/VD-MKDF) <br> [![Blog](https://img.shields.io/badge/Blog-Research%20Note-purple?style=for-the-badge)](https://hyun0916.tistory.com/category/Research/VD-MKDF) |
-
-## 🛠 프로젝트 (Projects)
-
-| ROS2 & LLM Autonomous Robot | Wafer Defect Classification | Smart Appliance Multimodal AI |
-| :--------------------------: | :-------------------------: | :---------------------------: |
-| <a href="BLOG_URL_PROJ_ROS2LLM" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj_ros2_llm_robot.gif" alt="ROS2 & LLM Autonomous Robot" width="260" /></a> | <a href="BLOG_URL_PROJ_WAFER" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj_wafer_defect.jpg" alt="Wafer Defect Classification" width="260" /></a> | <a href="BLOG_URL_PROJ_SMART" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj_smart_appliance_ai.gif" alt="Smart Appliance Multimodal AI" width="260" /></a> |
-| [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](GITHUB_URL_PROJ_ROS2LLM) <br> [![Blog](https://img.shields.io/badge/Blog-Project%20Note-teal?style=for-the-badge)](BLOG_URL_PROJ_ROS2LLM) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](GITHUB_URL_PROJ_WAFER) <br> [![Blog](https://img.shields.io/badge/Blog-Project%20Note-orange?style=for-the-badge)](BLOG_URL_PROJ_WAFER) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](GITHUB_URL_PROJ_SMART) <br> [![Blog](https://img.shields.io/badge/Blog-Project%20Note-green?style=for-the-badge)](BLOG_URL_PROJ_SMART) |
-
-## 🏆 대회 (Competitions)
-
-| News Big Data Hackathon | LG Aimers S8 | Vehicle Trajectory Prediction | Hecto Vehicle Classification |
-| :---------------------: | :----------: | :---------------------------: | :--------------------------: |
-| <a href="https://github.com/short-kinds" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/comp_news_bigdata.png" alt="News Big Data Hackathon" width="260" /></a> | <a href="https://github.com/LG-Aimers-Season-8/baseline" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/aimers.png" alt="LG Aimers S8" width="260" /></a> | <a href="https://github.com/0916hyun/QCNetonETD_PP" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/comp_vehicle_trajectory.png" alt="Vehicle Trajectory Prediction" width="260" /></a> | <a href="https://github.com/0916hyun/hecto-vehicle-classification" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/1_VYRFggpWPZyxr90fSFzr-w.png" alt="Hecto Vehicle Classification" width="260" /></a> |
-| [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/short-kinds) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/LG-Aimers-Season-8/baseline) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/QCNetonETD_PP) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/hecto-vehicle-classification) |
-
-## 📘 Study Archives
-
-| image processing | Deep Learning | Embedded Systems | Paper Reviews |
-| :-------------: | :-----------: | :---------------: | :-----------: |
-| <a href="https://hyun0916.tistory.com/category/Study%20Archives/opencv" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/Lenna.png" alt="Image Processing Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/dl.png" alt="Deep Learning Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/jetson.png" alt="Embedded Systems Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reivews" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/paper.png" alt="Paper Reviews" width="260" /></a> |
-| [![Blog](https://img.shields.io/badge/Blog-Image%20Processing-1E90FF?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/opencv) | [![Blog](https://img.shields.io/badge/Blog-Deep%20Learning-8A2BE2?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning) | [![Blog](https://img.shields.io/badge/Blog-Embedded%20Systems-20B2AA?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems) | [![Blog](https://img.shields.io/badge/Blog-Paper%20Reviews-DC143C?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reviews) |
-
----
-
 
 ## 📄 Publications
 
@@ -93,3 +49,51 @@ In team projects, I have built end-to-end pipelines from data preparation and mo
 | 빛 번짐에 강인한 시맨틱 세그멘테이션 장치 및 방법 | Patent (Published) | 2025.08.28 | 10-2025-0121303 |
 | 악천후 환경에서 강건한 의미론적 이미지 분할 장치 및 방법 | Patent (Published) | 2026.02.27 | 10-2026-0036791 |
 | 렌즈 플레어 열화 이미지에 강인한 공분산 어텐션 및 지식증류 기반 세그멘테이션 프로그램 | Software (Registered) | 2025.08.14 | C-2025-031317 |
+
+---
+
+### 🛠 Tech Stack
+
+**Deep Learning / CV**: Python, PyTorch, OpenCV  
+**On-device Deployment**: ONNX, TensorRT, OpenVINO, Android Studio, Kotlin  
+**Robotics Integration**: ROS2, Nav2, SLAM  
+**Dev / MLOps**: Linux, Git, Docker  
+**Embedded Platforms**: Jetson TX2, Jetson Orin Nano, Raspberry Pi 5, Android  
+**Vision Datasets**: CamVid, KITTI, IDD-Lite, WM-811K  
+**Other Data / Tasks**: ETD (Trajectory)
+
+---
+
+## 🔬 연구 (Research)
+
+| CACKD | VD-MKDF |
+| :---: | :-----: |
+| <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/cackd_thumb.png" alt="CACKD" width="360" /> | <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/rmawkd_thumb.png" alt="VD-MKDF" width="360" /> |
+| <img src="https://img.shields.io/badge/Paper-Under%20Review-lightgrey?style=for-the-badge" alt="Paper Under Review" /> <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/CACKD) <br> [![Blog](https://img.shields.io/badge/Blog-Research%20Note-blue?style=for-the-badge)](https://hyun0916.tistory.com/category/Research/CACKD) | <img src="https://img.shields.io/badge/Paper-Under%20Review-lightgrey?style=for-the-badge" alt="Paper Under Review" /> <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/VD-MKDF) <br> [![Blog](https://img.shields.io/badge/Blog-Research%20Note-purple?style=for-the-badge)](https://hyun0916.tistory.com/category/Research/VD-MKDF) |
+
+---
+
+## 🛠 프로젝트 (Projects)
+
+| ROS2 & VLM Autonomous Robot with VD-MKDF | Smart Appliance Multimodal AI | Wafer Defect Classification |
+| :--------------------------------------: | :---------------------------: | :-------------------------: |
+| <a href="BLOG_URL_PROJ_ROS2LLM" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj_ros2_llm_robot.gif" alt="ROS2 & VLM Autonomous Robot with VD-MKDF" width="260" /></a> | <a href="https://github.com/0916hyun/Smart_CCTV" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj_smart_appliance_ai.gif" alt="Smart Appliance Multimodal AI" width="260" /></a> | <a href="https://github.com/0916hyun/wafer_defect_classifier-ensemble_3models-" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj_wafer_defect.jpg" alt="Wafer Defect Classification" width="260" /></a> |
+| [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/ROS2_vlm_seg_robot_project) <br> [![Blog](https://img.shields.io/badge/Blog-Project%20Note-teal?style=for-the-badge)](BLOG_URL_PROJ_ROS2LLM) | [![GitHub 1](https://img.shields.io/badge/GitHub%201-Smart__CCTV-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/Smart_CCTV) <br> [![GitHub 2](https://img.shields.io/badge/GitHub%202-Image__editor-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/Image_editor) <br> [![Blog](https://img.shields.io/badge/Blog-Project%20Note-green?style=for-the-badge)](BLOG_URL_PROJ_SMART) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/wafer_defect_classifier-ensemble_3models-) |
+
+---
+
+## 🏆 대회 (Competitions)
+
+| News Big Data Hackathon | LG Aimers Season 8 | ETRI Vehicle Trajectory Prediction Challenge | Hecto Vehicle Classification Competition |
+| :---------------------: | :----------------: | :------------------------------------------: | :--------------------------------------: |
+| <a href="https://github.com/short-kinds" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/comp_news_bigdata.png" alt="News Big Data Hackathon" width="260" /></a> | <a href="https://github.com/LG-Aimers-Season-8/baseline" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/aimers.png" alt="LG Aimers Season 8" width="260" /></a> | <a href="https://github.com/0916hyun/QCNetonETD_PP" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/comp_vehicle_trajectory.png" alt="ETRI Vehicle Trajectory Prediction Challenge" width="260" /></a> | <a href="https://github.com/0916hyun/hecto-vehicle-classification" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/1_VYRFggpWPZyxr90fSFzr-w.png" alt="Hecto Vehicle Classification Competition" width="260" /></a> |
+| [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/short-kinds) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/LG-Aimers-Season-8/baseline) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/QCNetonETD_PP) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/hecto-vehicle-classification) |
+
+---
+
+## 📘 Study Archives
+
+| Image Processing | Deep Learning | Embedded Systems | Paper Reviews |
+| :--------------: | :-----------: | :--------------: | :-----------: |
+| <a href="https://hyun0916.tistory.com/category/Study%20Archives/opencv" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/Lenna.png" alt="Image Processing Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/dl.png" alt="Deep Learning Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/jetson.png" alt="Embedded Systems Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reviews" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/paper.png" alt="Paper Reviews" width="260" /></a> |
+| [![Blog](https://img.shields.io/badge/Blog-Image%20Processing-1E90FF?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/opencv) | [![Blog](https://img.shields.io/badge/Blog-Deep%20Learning-8A2BE2?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning) | [![Blog](https://img.shields.io/badge/Blog-Embedded%20Systems-20B2AA?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems) | [![Blog](https://img.shields.io/badge/Blog-Paper%20Reviews-DC143C?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reviews) |
