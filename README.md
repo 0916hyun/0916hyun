@@ -43,12 +43,84 @@ In team projects, I have built end-to-end pipelines from data preparation and mo
 
 ---
 
-## 🛠 프로젝트 (Projects)
+<h2>🛠 프로젝트 (Projects)</h2>
 
-| ROS2 & VLM Autonomous Robot<br>with VD-MKDF | Smart Appliance Multimodal AI<br><br> | Wafer Defect<br>Classification | CPS Factory Automation<br>Digital Twin |
-| :-----------------------------------------: | :-----------------------------------: | :----------------------------: | :------------------------------------: |
-| <a href="https://hyun0916.tistory.com/category/Side%20Project/ROS2%20%26%20LLM%20Autonomous%20Robot" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj2_ros2_llm_robot.gif" alt="ROS2 & VLM Autonomous Robot with VD-MKDF" width="210" /></a> | <a href="https://github.com/0916hyun/Smart_CCTV" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj2_smart_appliance_ai.gif" alt="Smart Appliance Multimodal AI" width="210" /></a> | <a href="https://github.com/0916hyun/wafer_defect_classifier-ensemble_3models-" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj2_wafer_defect.jpg" alt="Wafer Defect Classification" width="210" /></a> | <a href="https://hyun0916.tistory.com/108" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj2_factory.png" alt="CPS Factory Automation Digital Twin" width="210" /></a> |
-| [![Blog](https://img.shields.io/badge/Blog-Project%20Note-teal?style=for-the-badge)](https://hyun0916.tistory.com/category/Side%20Project/ROS2%20%26%20LLM%20Autonomous%20Robot) <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/ROS2_vlm_seg_robot_project) | [![GitHub 1](https://img.shields.io/badge/GitHub%201-Smart__CCTV-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/Smart_CCTV) <br> [![GitHub 2](https://img.shields.io/badge/GitHub%202-Image__editor-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/Image_editor) | [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/wafer_defect_classifier-ensemble_3models-) | [![Blog](https://img.shields.io/badge/Blog-Project%20Note-teal?style=for-the-badge)](https://hyun0916.tistory.com/108) <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/factory-automation-digital-twin) |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>ROS2 &amp; VLM Autonomous Robot<br>with VD-MKDF<br>&nbsp;</b>
+    </td>
+    <td align="center" width="25%">
+      <b>Smart Appliance Multimodal<br>AI<br>&nbsp;</b>
+    </td>
+    <td align="center" width="25%">
+      <b>Wafer Defect<br>Classification<br>&nbsp;</b>
+    </td>
+    <td align="center" width="25%">
+      <b>CPS Factory Automation<br>Digital Twin<br>&nbsp;</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://hyun0916.tistory.com/category/Side%20Project/ROS2%20%26%20LLM%20Autonomous%20Robot" target="_blank">
+        <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj2_ros2_llm_robot.gif" alt="ROS2 &amp; VLM Autonomous Robot with VD-MKDF" width="220" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/0916hyun/Smart_CCTV" target="_blank">
+        <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj2_smart_appliance_ai.gif" alt="Smart Appliance Multimodal AI" width="220" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/0916hyun/wafer_defect_classifier-ensemble_3models-" target="_blank">
+        <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj2_wafer_defect.jpg" alt="Wafer Defect Classification" width="220" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://hyun0916.tistory.com/108" target="_blank">
+        <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj2_factory.png" alt="CPS Factory Automation Digital Twin" width="220" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://hyun0916.tistory.com/category/Side%20Project/ROS2%20%26%20LLM%20Autonomous%20Robot">
+        <img src="https://img.shields.io/badge/Blog-Project%20Note-teal?style=for-the-badge" alt="Blog" />
+      </a>
+      <br />
+      <a href="https://github.com/0916hyun/ROS2_vlm_seg_robot_project">
+        <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/0916hyun/Smart_CCTV">
+        <img src="https://img.shields.io/badge/GitHub%201-Smart__CCTV-black?style=for-the-badge&logo=github" alt="GitHub 1" />
+      </a>
+      <br />
+      <a href="https://github.com/0916hyun/Image_editor">
+        <img src="https://img.shields.io/badge/GitHub%202-Image__editor-black?style=for-the-badge&logo=github" alt="GitHub 2" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/0916hyun/wafer_defect_classifier-ensemble_3models-">
+        <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub" />
+      </a>
+      <br />
+      <span>&nbsp;</span>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://hyun0916.tistory.com/108">
+        <img src="https://img.shields.io/badge/Blog-Project%20Note-teal?style=for-the-badge" alt="Blog" />
+      </a>
+      <br />
+      <a href="https://github.com/0916hyun/factory-automation-digital-twin">
+        <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
