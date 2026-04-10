@@ -69,7 +69,7 @@ In team projects, I have built end-to-end pipelines from data preparation and mo
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/0916hyun/Smart_CCTV" target="_blank">
-        <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj2_smart_appliance_ai.gif" alt="Smart Appliance Multimodal AI" width="220" />
+        <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/proj_smart_appliance_ai.gif" alt="Smart Appliance Multimodal AI" width="220" />
       </a>
     </td>
     <td align="center" width="25%">
