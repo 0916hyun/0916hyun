@@ -63,10 +63,16 @@ In team projects, I have built end-to-end pipelines from data preparation and mo
 
 ## 📘 Study Archives
 
-| Image Processing | Deep Learning | Embedded Systems | Digital Twin | Paper Reviews |
-| :--------------: | :-----------: | :--------------: | :----------: | :-----------: |
-| <a href="https://hyun0916.tistory.com/category/Study%20Archives/opencv" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/processing.png" alt="Image Processing Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/dl.png" alt="Deep Learning Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/jetson.png" alt="Embedded Systems Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Digital%20Twin" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/twin.png" alt="Digital Twin Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reviews" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/paper.png" alt="Paper Reviews" width="260" /></a> |
-| [![Blog](https://img.shields.io/badge/Blog-Image%20Processing-1E90FF?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/opencv) | [![Blog](https://img.shields.io/badge/Blog-Deep%20Learning-8A2BE2?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning) | [![Blog](https://img.shields.io/badge/Blog-Embedded%20Systems-20B2AA?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems) | [![Blog](https://img.shields.io/badge/Blog-Digital%20Twin-FF8C00?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Digital%20Twin) | [![Blog](https://img.shields.io/badge/Blog-Paper%20Reviews-DC143C?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reviews) |
+| Image Processing | Deep Learning | Embedded Systems |
+| :--------------: | :-----------: | :--------------: |
+| <a href="https://hyun0916.tistory.com/category/Study%20Archives/opencv" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/processing.png" alt="Image Processing Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/dl.png" alt="Deep Learning Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/jetson.png" alt="Embedded Systems Notes" width="260" /></a> |
+| [![Blog](https://img.shields.io/badge/Blog-Image%20Processing-1E90FF?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/opencv) | [![Blog](https://img.shields.io/badge/Blog-Deep%20Learning-8A2BE2?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Deep%20Learning) | [![Blog](https://img.shields.io/badge/Blog-Embedded%20Systems-20B2AA?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Embedded%20Systems) |
+
+| Robotics | Digital Twin | Paper Reviews |
+| :------: | :----------: | :-----------: |
+| <a href="https://hyun0916.tistory.com/category/Study%20Archives/Robotics" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/robot.png" alt="Robotics Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Digital%20Twin" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/twin.png" alt="Digital Twin Notes" width="260" /></a> | <a href="https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reviews" target="_blank"><img src="https://github.com/0916hyun/0916hyun/raw/main/docs/paper.png" alt="Paper Reviews" width="260" /></a> |
+| [![Blog](https://img.shields.io/badge/Blog-Robotics-4169E1?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Robotics) | [![Blog](https://img.shields.io/badge/Blog-Digital%20Twin-FF8C00?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Digital%20Twin) | [![Blog](https://img.shields.io/badge/Blog-Paper%20Reviews-DC143C?style=for-the-badge)](https://hyun0916.tistory.com/category/Study%20Archives/Paper%20Reviews) |
+
 
 ---
 
@@ -80,6 +86,7 @@ In team projects, I have built end-to-end pipelines from data preparation and mo
 | Multi-teacher Knowledge Distillation-based Fusion for Semantic Segmentation Robust to Low-quality Images from Adverse Road Environments by Cross-modality Knowledge | *ISPRS Journal of Photogrammetry and Remote Sensing* | First Author | Under Review |
 | Knowledge Distillation for Super-resolution Reconstruction and Segmentation in Forward-facing Camera Images | *Applied Soft Computing* | Co-author | 2026.02 |
 | Estimation of Fractal Dimension and Super-resolution Reconstruction for Person Re-identification from Images by Infrared Surveillance Camera | *Fractal and Fractional* | Co-author | 2026.02 |
+| Agentic Artificial Intelligence for Autonomous and Interpretable Colorectal Polyp Segmentation in Consumer Electronics | *IEEE Transactions on Consumer Electronics* | Co-author | Under Review |
 
 ### Conference Papers
 
