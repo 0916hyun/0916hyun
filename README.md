@@ -39,7 +39,7 @@ In team projects, I have built end-to-end pipelines from data preparation and mo
 | CACKD | VD-MKDF |
 | :---: | :-----: |
 | <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/cackd_thumb.png" alt="CACKD" width="360" /> | <img src="https://github.com/0916hyun/0916hyun/raw/main/docs/rmawkd_thumb.png" alt="VD-MKDF" width="360" /> |
-| <img src="https://img.shields.io/badge/Paper-Under%20Review-lightgrey?style=for-the-badge" alt="Paper Under Review" /> <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/CACKD) <br> [![Blog](https://img.shields.io/badge/Blog-Research%20Note-blue?style=for-the-badge)](https://hyun0916.tistory.com/category/Research/CACKD) | <img src="https://img.shields.io/badge/Paper-Under%20Review-lightgrey?style=for-the-badge" alt="Paper Under Review" /> <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/VD-MKDF) <br> [![Blog](https://img.shields.io/badge/Blog-Research%20Note-purple?style=for-the-badge)](https://hyun0916.tistory.com/category/Research/VD-MKDF) |
+| [![Paper](https://img.shields.io/badge/Paper-EAAI%202026-orange?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0952197626014223) <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/CACKD) <br> [![Blog](https://img.shields.io/badge/Blog-Research%20Note-blue?style=for-the-badge)](https://hyun0916.tistory.com/category/Research/CACKD) | <img src="https://img.shields.io/badge/Paper-Under%20Review-lightgrey?style=for-the-badge" alt="Paper Under Review" /> <br> [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/0916hyun/VD-MKDF) <br> [![Blog](https://img.shields.io/badge/Blog-Research%20Note-purple?style=for-the-badge)](https://hyun0916.tistory.com/category/Research/VD-MKDF) |
 
 ---
 
@@ -154,7 +154,7 @@ In team projects, I have built end-to-end pipelines from data preparation and mo
 
 | Title | Journal | Role | Status |
 | --- | --- | --- | --- |
-| Covariance Attention and Correlation-Based Knowledge Distillation for Semantic Segmentation of Lens Flare-Degraded Road Scenes | *Engineering Applications of Artificial Intelligence* | First Author | Under Review |
+| Covariance Attention and Correlation-Based Knowledge Distillation for Semantic Segmentation of Lens Flare-Degraded Road Scenes | *Engineering Applications of Artificial Intelligence* | First Author | 2026.05 |
 | Multi-teacher Knowledge Distillation-based Fusion for Semantic Segmentation Robust to Low-quality Images from Adverse Road Environments by Cross-modality Knowledge | *ISPRS Journal of Photogrammetry and Remote Sensing* | First Author | Under Review |
 | Knowledge Distillation for Super-resolution Reconstruction and Segmentation in Forward-facing Camera Images | *Applied Soft Computing* | Co-author | 2026.02 |
 | Estimation of Fractal Dimension and Super-resolution Reconstruction for Person Re-identification from Images by Infrared Surveillance Camera | *Fractal and Fractional* | Co-author | 2026.02 |
